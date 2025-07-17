@@ -8,7 +8,7 @@ This project analyzes a comprehensive Brazilian e-commerce dataset to uncover bu
 
 ## 📂 Dataset Information
 
-- **Source:** Brazilian E-commerce Public Dataset by Olist  
+- **Source:** Brazilian E-commerce Public Dataset by Olist (https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_geolocation_dataset.csv) 
 - **Time Period:** September 2016 - September 2018 (2 years)  
 - **Records:** 112,345 orders from 95,155 unique customers  
 - **Sellers:** 3,095 unique sellers  
