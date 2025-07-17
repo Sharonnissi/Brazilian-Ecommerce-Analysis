@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Brazilian E-commerce Data Analysis
 
 
@@ -50,3 +51,4 @@ Database: MySQL
 Query Language: SQL
 Data Analysis: Statistical analysis and aggregation
 Version Control: Git/GitHub
+>>>>>>> cb2c572e71c101b3c99b0e10e2d3af17647832e3
